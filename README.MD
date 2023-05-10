@@ -1,0 +1,3 @@
+# Basic Javascript Algorithms/Data Structures
+
+These are from freeCodeCamp associated Javascript certification projects. They were fairly straightfoward except for the telephone number one which was pretty much just regex, I had a lot of help for that one because I had trouble figuring out how to make sure parentheses were enclosed properly since I was trying to use positivie lookahoud for a while before realising the | statements works. Also really helped the tests were given so I knew they wouldn't put spaces in certain places (like in between the parentheses and numbers).
